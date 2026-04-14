@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Anything that has to do with ML and Data Science
 - 🌱 I’m currently learning ... Data Deep Learning Visualization
 - 💞️ I’m looking to collaborate on ... projects related to Data Science
-- 📫 How to reach me ... jared.peck@uconn.edu
+- 📫 How to reach me ... jared7peck@gmail.com
 
 <!---
 Jmp13033/Jmp13033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
